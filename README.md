@@ -116,9 +116,3 @@ flowchart LR
 | 支付与订阅 | `payment_record`、`refund_record`、`subscription_plan`、`subscription_log` |
 | 平台 | `platform_setting`、`referral_record`、`admin_notification` |
 | 厨房 | `kitchen_schedule`、`dish_time_estimate`、`kitchen_cook_log` |
-
----
-
-## 截图
-
-【待补充：商户 PC 端实时看板、小程序点餐页、账单页等截图，放入 `screenshots/` 文件夹。截图前请隐藏真实商户名称、订单金额和顾客信息。】
